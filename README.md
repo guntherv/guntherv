@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guntherv
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning in a continous mode :) 
+- 🌱 I’m currently learning in a continuous mode :) 
 - 📫 How to reach me ... google is your best friend ...
 
 <!---
